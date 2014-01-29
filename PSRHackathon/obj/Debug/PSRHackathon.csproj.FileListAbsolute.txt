@@ -1,0 +1,2 @@
+C:\Visual Studio\PSRHackathon\PSRHackathon\bin\Debug\PSRHackathon.exe.config
+C:\Visual Studio\PSR\PSRHackathon\PSRHackathon\bin\Debug\PSRHackathon.exe.config
